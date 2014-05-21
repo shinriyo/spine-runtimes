@@ -524,7 +524,7 @@ namespace Spine
                     || value is int
                     || value is uint
                     || value is long
-						  || value is float
+                    || value is float
                     || value is sbyte
                     || value is byte
                     || value is short
